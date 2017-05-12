@@ -18,6 +18,7 @@ const getMedicationOrdersQuery = `
         url
       }
       dose
+      priority
       patient {
         firstName
         lastName

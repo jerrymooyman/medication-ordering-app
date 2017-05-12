@@ -4,12 +4,15 @@
   "private": true,
   "dependencies": {
     "eslint": "^3.19.0",
+    "lodash.debounce": "^4.0.8",
     "lokka": "^1.7.0",
     "lokka-transport-http": "^1.6.1",
     "material-ui": "^0.17.4",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-icons": "^2.2.3",
+    "react-tap-event-plugin": "^2.0.1"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
